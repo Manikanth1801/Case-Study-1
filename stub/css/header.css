@@ -1,0 +1,13 @@
+/* Set a style for all elements inside the header i.e. Sign Up button, Sign In button, 
+the title "ScriBBler" & the sub-heading below "ScriBBLer" */
+#pageTitle{
+    font-family: 'satisfy',cursive;
+    font-size: 45px;
+ }
+ button{
+    display: inline;
+    color: black;
+    background-color: blue;
+    margin: 5px;
+ 
+ }
